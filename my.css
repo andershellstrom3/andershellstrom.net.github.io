@@ -1,0 +1,13 @@
+
+  div.lnk {
+    padding: 30px;}
+
+   table.lnk {
+    font-family: "Karma", sans-serif
+    border-collapse: separate;
+    border-spacing: 5px;
+    empty-cells: hide;
+    table-layout: fixed;
+    width: 100%;
+  } 
+  
