@@ -1,0 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:anders@andershellstrom.net
+Expires: 2027-01-05T04:00:00.000Z
+Encryption: https://keybase.io/andershellstrom3/pgp_keys.asc?fingerprint=a3cb40392a497ffe79d526c964e701df0169f903
+Preferred-Languages: en
+Canonical: https://andershellstrom.net/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+wsBcBAABCgAGBQJlmDWTAAoJEN5smmnulr05FcQIAJ9l1B8YNVESVimLsUEP1XDK
+JZL/U+ew671c+A8UCMvCddmf3aQnKvpk2zYxFscSZGykMxw8Vv3xWnnuOWHhRLXO
+V636YqOZZ1AjBeXL6aR1dyB6/ncyYsUyavMXG9fIO+BEmGeYFb7fkkfq2VmfWHFO
+pwJ2ggq3HLEjwlCLxZniEUcn+s/Rrhl9l9BcLh6FNlExKW/EEYXb2i1v86j7QTqT
+CWFFB2b23QQkcgOId+aWi3luF2GC7gLRvkJKbIGnwszMtLLKTzBVYmvRrSYWk8G0
+L9dMjnqFhnbBhqkKdrZbR5cmxsjOg4cCe7hRP3e4N/76z9FIGdfmW79HHM/2ViM=
+=jDVP
+-----END PGP SIGNATURE-----
